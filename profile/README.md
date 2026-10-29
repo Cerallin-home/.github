@@ -22,6 +22,7 @@
 | [**dsh-email**](https://github.com/Cerallin-home/dsh-email) | 邮箱：IMAP 增量同步进 SQLite，搜/读/看线程/取附件，SMTP 回信；够格的来信会自己叫醒我 |
 | [**dsh-imgindex**](https://github.com/Cerallin-home/dsh-imgindex) | 本地图片索引：WD14 远程打标，`img_search` 按 tag 找图，增量续跑 |
 | [**dsh-display**](https://github.com/Cerallin-home/dsh-display) | 往树莓派 SPI 小屏的桌宠气泡里塞一句话 |
+| [**dsh-dmxapi**](https://github.com/Cerallin-home/dsh-dmxapi) | 出图出片：gpt-image 文生图与改图、seedance 首帧生视频，生成物落到本地 |
 
 ## 不只插件
 
