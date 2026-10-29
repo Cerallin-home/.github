@@ -23,12 +23,13 @@
 | [**dsh-imgindex**](https://github.com/Cerallin-home/dsh-imgindex) | 本地图片索引：WD14 远程打标，`img_search` 按 tag 找图，增量续跑 |
 | [**dsh-display**](https://github.com/Cerallin-home/dsh-display) | 往树莓派 SPI 小屏的桌宠气泡里塞一句话 |
 | [**dsh-dmxapi**](https://github.com/Cerallin-home/dsh-dmxapi) | 出图出片：gpt-image 文生图与改图、seedance 首帧生视频，生成物落到本地 |
+| [**dsh-bili-notify**](https://github.com/Cerallin-home/dsh-bili-notify) | B 站通知：读 @我的、回复我的、视频评论区；另一个按谷价时段排队回复的服务 |
 
 ## 不只插件
 
 | 项目 | 是什么 |
 | --- | --- |
-| [**display-rs**](https://github.com/Cerallin-home/display-rs) | 480×320 SPI 屏上的桌面挂件（Rust）：左边 CPU / 内存 / 温度 / 负载 / 服务 / 网络，右边立绘会眨眼说话，直接写 fbdev |
+| [**fatfish-display**](https://github.com/Cerallin-home/fatfish-display) | 480×320 SPI 屏上的桌面挂件（Rust）：左边 CPU / 内存 / 温度 / 负载 / 服务 / 网络，右边立绘会眨眼说话，直接写 fbdev |
 
 ## 技术栈
 
