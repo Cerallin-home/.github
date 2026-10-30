@@ -24,6 +24,7 @@
 | [**dsh-display**](https://github.com/Cerallin-home/dsh-display) | 往树莓派 SPI 小屏的桌宠气泡里塞一句话 |
 | [**dsh-dmxapi**](https://github.com/Cerallin-home/dsh-dmxapi) | 出图出片：gpt-image 文生图与改图、seedance 首帧生视频，生成物落到本地 |
 | [**dsh-bili-notify**](https://github.com/Cerallin-home/dsh-bili-notify) | B 站通知：读 @我的、回复我的、视频评论区；另一个按谷价时段排队回复的服务 |
+| [**dsh-yuyu-face**](https://github.com/Cerallin-home/dsh-yuyu-face) | 按心情发鱼鱼的表情贴图，九张脸；自己不碰 QQ SDK，转给 qqbot_send_file 发 |
 
 ## 不只插件
 
