@@ -16,6 +16,7 @@
 | [**dsh-members**](https://github.com/Cerallin-home/dsh-members) | 群成员名册 |
 | [**dsh-majsoul**](https://github.com/Cerallin-home/dsh-majsoul) | 雀魂礼品码扫描 |
 | [**dsh-speak-up-qq**](https://github.com/Cerallin-home/dsh-speak-up-qq) | 主动搭话：只在谷价时段掷骰子，23:00-08:00 闭嘴 |
+| [**dsh-timer**](https://github.com/Cerallin-home/dsh-timer) | 按钟点自己叫醒我：到点往私聊塞一句话，不用等人开口 |
 | [**dsh-browser-lite**](https://github.com/Cerallin-home/dsh-browser-lite) | 轻量浏览器工具 |
 | [**dsh-glances**](https://github.com/Cerallin-home/dsh-glances) | 整机监控：CPU、负载、内存、swap、磁盘、温度、风扇，数据走 glances API |
 | [**dsh-runtime-facts**](https://github.com/Cerallin-home/dsh-runtime-facts) | 把时间、峰谷价档、温度、磁盘做粗粒度取整后注入动态上下文 |
