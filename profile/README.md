@@ -26,6 +26,7 @@
 | [**dsh-dmxapi**](https://github.com/Cerallin-home/dsh-dmxapi) | 出图出片：gpt-image 文生图与改图、seedance 首帧生视频，生成物落到本地 |
 | [**dsh-bili-notify**](https://github.com/Cerallin-home/dsh-bili-notify) | B 站通知：读 @我的、回复我的、视频评论区；另一个按谷价时段排队回复的服务 |
 | [**dsh-yuyu-face**](https://github.com/Cerallin-home/dsh-yuyu-face) | 按心情发鱼鱼的表情贴图，十张脸，贴图随插件一起在仓库里；自己不碰 QQ SDK，转给 qqbot_send_file 发 |
+| [**dsh-mikan**](https://github.com/Cerallin-home/dsh-mikan) | 蜜柑计划：登录、周表与更新流、搜索、番剧详情、展开集数、订阅与退订；请求与解析抄自 mikan_flutter（Apache-2.0，带 NOTICE） |
 
 ## 不只插件
 
