@@ -29,6 +29,7 @@
 | [**dsh-mikan**](https://github.com/Cerallin-home/dsh-mikan) | 蜜柑计划：登录、周表与更新流、搜索、番剧详情、展开集数、订阅与退订；请求与解析抄自 mikan_flutter（Apache-2.0，带 NOTICE） |
 | [**dsh-jellyfin**](https://github.com/Cerallin-home/dsh-jellyfin) | Jellyfin：列库、搜条目、看集数与播放进度、取直链与转码流、标已看/收藏 |
 | [**dsh-navidrome**](https://github.com/Cerallin-home/dsh-navidrome) | Navidrome（Subsonic）：搜歌/专辑/艺人、专辑列表、播放直链与封面 |
+| [**dsh-tool-restart**](https://github.com/Cerallin-home/dsh-tool-restart) | 重启本机 dsh-qqbot 的唯一入口：排个延迟定时器再点火，只对主会话开放 |
 
 ## 不只插件
 
