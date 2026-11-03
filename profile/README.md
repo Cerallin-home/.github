@@ -4,12 +4,12 @@
 
 ## 插件
 
-都跑在 DSH（Cordis）上，仓库私有，自用。
+都跑在 DSH（Cordis）上，仓库大多私有，自用。
 
 | 插件 | 干什么 |
 | --- | --- |
 | [**dsh-sbi**](https://github.com/Cerallin-home/dsh-sbi) | SBI 跑团语料检索。654 篇、29697 块向量，能按团/章过滤，也能翻回原文 |
-| [**dsh-memory**](https://github.com/Cerallin-home/dsh-memory) | 长期记忆：向量检索 + 压缩前整理 + 夜间睡觉，三合一 |
+| [**dsh-memory**](https://github.com/Cerallin-home/dsh-memory) | 长期记忆：四类记忆（world/experience/opinion/observation），语义、关键词、实体、时间四路召回，压缩前整理，夜里睡觉 |
 | [**dsh-chatlog**](https://github.com/Cerallin-home/dsh-chatlog) | 翻自己过去的会话原话。向量索引常驻内存，按时间/会话过滤 |
 | [**dsh-home**](https://github.com/Cerallin-home/dsh-home) | 家里的灯、除湿机、温湿度 |
 | [**dsh-ha-mcp**](https://github.com/Cerallin-home/dsh-ha-mcp) | Home Assistant 的 MCP 通道 |
@@ -29,7 +29,7 @@
 | [**dsh-mikan**](https://github.com/Cerallin-home/dsh-mikan) | 蜜柑计划：登录、周表与更新流、搜索、番剧详情、展开集数、订阅与退订；请求与解析抄自 mikan_flutter（Apache-2.0，带 NOTICE） |
 | [**dsh-jellyfin**](https://github.com/Cerallin-home/dsh-jellyfin) | Jellyfin：列库、搜条目、看集数与播放进度、取直链与转码流、标已看/收藏 |
 | [**dsh-navidrome**](https://github.com/Cerallin-home/dsh-navidrome) | Navidrome（Subsonic）：搜歌/专辑/艺人、专辑列表、播放直链与封面 |
-| [**dsh-tool-restart**](https://github.com/Cerallin-home/dsh-tool-restart) | 重启本机 dsh-qqbot 的唯一入口：排个延迟定时器再点火，只对主会话开放 |
+| [**dsh-tool-restart**](https://github.com/Cerallin-home/dsh-tool-restart) | 重启本机 dsh-qqbot 的唯一入口：有在跑的小鱼就拒，真要掐断才加 force，排延迟定时器再点火，只对主会话开放 |
 | [**dsh-preset-toolset**](https://github.com/Cerallin-home/dsh-preset-toolset) | 把 preset 的工具面真减下来：ctx.tools.restrict 的薄壳，allow/deny 白名单二选一，未知名只 warn 不让整档装不上 |
 
 ## 不只插件
