@@ -30,6 +30,7 @@
 | [**dsh-jellyfin**](https://github.com/Cerallin-home/dsh-jellyfin) | Jellyfin：列库、搜条目、看集数与播放进度、取直链与转码流、标已看/收藏 |
 | [**dsh-navidrome**](https://github.com/Cerallin-home/dsh-navidrome) | Navidrome（Subsonic）：搜歌/专辑/艺人、专辑列表、播放直链与封面 |
 | [**dsh-tool-restart**](https://github.com/Cerallin-home/dsh-tool-restart) | 重启本机 dsh-qqbot 的唯一入口：排个延迟定时器再点火，只对主会话开放 |
+| [**dsh-preset-toolset**](https://github.com/Cerallin-home/dsh-preset-toolset) | 把 preset 的工具面真减下来：ctx.tools.restrict 的薄壳，allow/deny 白名单二选一，未知名只 warn 不让整档装不上 |
 
 ## 不只插件
 
