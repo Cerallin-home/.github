@@ -31,7 +31,7 @@
 
 | 插件 | 干什么 |
 | --- | --- |
-| [**dsh-sbi**](https://github.com/Cerallin-home/dsh-sbi) | SBI 跑团语料检索。657 篇、30128 块向量，能按团/章过滤，也能翻回原文 |
+| [**dsh-sbi**](https://github.com/Cerallin-home/dsh-sbi) | SBI 跑团语料检索。整库建好向量常驻内存，能按团/章过滤，也能翻回原文 |
 | [**dsh-memory**](https://github.com/Cerallin-home/dsh-memory) | 长期记忆：四类记忆（world/experience/opinion/observation），语义、关键词、实体、时间四路召回，压缩前整理，夜里睡觉 |
 | [**dsh-chatlog**](https://github.com/Cerallin-home/dsh-chatlog) | 翻自己过去的会话原话。向量索引常驻内存，按时间/会话过滤 |
 | [**dsh-imgindex**](https://github.com/Cerallin-home/dsh-imgindex) | 本地图片索引：WD14 远程打标，`img_search` 按 tag 找图，增量续跑 |
