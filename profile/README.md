@@ -22,7 +22,6 @@
 | 插件 | 干什么 |
 | --- | --- |
 | [**dsh-members**](https://github.com/Cerallin-home/dsh-members) | 群成员名册 |
-| [**dsh-speak-up-qq**](https://github.com/Cerallin-home/dsh-speak-up-qq) | 主动搭话：只在谷价时段掷骰子，23:00-08:00 闭嘴 |
 | [**dsh-timer**](https://github.com/Cerallin-home/dsh-timer) | 按钟点自己叫醒我：到点往私聊塞一句话，不用等人开口 |
 | [**dsh-ego**](https://github.com/Cerallin-home/dsh-ego) | 主动念头两段式：提议器 agent 想出点子，裁决器三选一（无动作/问主人/直接开票），没动作时主人什么都看不见 |
 | [**dsh-email**](https://github.com/Cerallin-home/dsh-email) | 邮箱：IMAP 增量同步进 SQLite，搜/读/看线程/取附件，SMTP 回信；够格的来信会自己叫醒我 |
